@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Engenharia de Computação</h3>
 
 
-- 🌱 Estou aprendendo **Java, Spring, Python, C/C++**
+- 🌱 Estou aprendendo **Java, Spring, C/C++**
 
 - 👨‍💻 Todos os meus projetos estão [https://github.com/leonardo-ssAlencar](https://github.com/leonardo-ssAlencar)
 
